@@ -1,0 +1,19 @@
+ALL,ANDROID,IOS,TH,EN
+,,,,
+# Register,,,,
+register_message_success_register,,,สมัครสำเร็จ,Success register.
+register_placeholder_otp,,,OTP,OTP
+register_username,register_username_android,cregister_username_ios,ชื่อผู้ใช้งาน,Username
+,register_password_android,register_password_android,รหัสผ่าน,Password
+,register_button_back_android,,กลับ,Back
+,,,ทดสอบ,Test
+register_alert_warning_otp_empty,,,โปรดใส่ OTP,Please fill in OTP.
+register_alert_error_unavailable_network,,,ขออภัยในความไม่สะดวก โปรดลองใหม่อีกครั้ง,"Sorry, the service is available at this moment please try again."
+register_alert_error_register,,,,
+,,,,
+# Login,,,,
+login_message_success_login,,,เข้าใช้งานสำเร็จ,Success login.
+login_placeholder_name,,,ชื่อผู้ใช้งาน,Username
+login_alert_warning_username_empty,,,โปรดใส่ ชื่อผู้ใช้งาน,Please fill in username.
+login_alert_error_unavailable_network,,,ขออภัยในความไม่สะดวก โปรดลองใหม่อีกครั้ง,"Sorry, the service is available at this moment please try again."
+,,,,
