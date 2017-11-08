@@ -111,7 +111,7 @@ def init_result(result, localize):
 def validate_first_row_csv(row):
     if (row[0].lower() != "all"
             or row[1].lower() != "android"
-            or row[2].lower() != "ios"):
+            or row[2].lower() != "ios") and len(row) <= 3:
         print("\ncsv syntax error please check document :(\n")
         return Invalidate
     return Validate
